@@ -18,7 +18,6 @@ An end-to-end analytics project exploring IPL match data using advanced SQL quer
 - matches.csv → Cleaned IPL dataset
 - match-eda-final.sql → All SQL queries from beginner to advanced
 - powerbi-dashboard.pbix → Final Power BI dashboard (published visuals)
-- /screenshots → Images of visuals & dashboards for preview
 
 # **📊 Dashboard Overview**
 The Power BI dashboard is divided into **4 main sections**, each with 2 sub-pages:
